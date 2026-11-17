@@ -1,0 +1,10 @@
+{
+  "name": "wbapp Canvas Bridge",
+  "description": "Pairing relay: iPad syncs Canvas via laptop Chrome extension",
+  "repository": "https://github.com/chughjug/chess-tournament-director",
+  "keywords": ["canvas", "wbapp", "relay"],
+  "env": {},
+  "formation": {
+    "web": { "quantity": 1, "size": "basic" }
+  }
+}
